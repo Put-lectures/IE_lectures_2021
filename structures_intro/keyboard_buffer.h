@@ -1,0 +1,4 @@
+#ifndef KEYBOARD_BUFFER_H
+#define KEYBOARD_BUFFER_H
+
+#endif // KEYBOARD_BUFFER_H
